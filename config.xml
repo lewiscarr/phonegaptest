@@ -3,7 +3,7 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "1819092"
+        id        = "com.coursecontent.app"
         version   = "1.0.0">
 
     <!-- Change app id (above), name, description, and author. App ID can be any reverse domain name, such as com.mycompany.app -->
@@ -13,8 +13,8 @@
        First Demo App.
     </description>
 
-    <author href="http://adaptivle.co.uk" email="sales@adaptivle.co.uk">
-        AppPresser
+    <author href="http://www.adaptivle.co.uk" email="sales@adaptivle.co.uk">
+        Adaptivle
     </author>
 
     <preference name="phonegap-version" value="3.7.0" />
